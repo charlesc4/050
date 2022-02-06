@@ -5,3 +5,5 @@ In this simple game you will have to choose numbers from 0 to 50 in up to 10 att
 Neste jogo simples você deverá escolher números de 0 a 50 em até 10 tentativas, siga as pistas para facilitar o acerto.
 
 Atualização 06092020: opção de jogo em inglês / option game in english.
+
+bibliotecas: Random, platform, subprocess (to play sound in linux and macos), playsound (to play sound in Windows)
